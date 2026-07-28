@@ -158,7 +158,7 @@ Every solved problem contains:
 | Platform      | Solved |
 | ------------- | -----: |
 | LeetCode      |      1 |
-| GeeksforGeeks |      0 |
+| GeeksforGeeks |      1 |
 | Codeforces    |      0 |
 
 > This table will be updated as I progress.
